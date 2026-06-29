@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Wht7t0yQjTQ=",
+  "dgSpecHash": "syHyEkVSQeg=",
   "success": true,
-  "projectFilePath": "C:\\BankAccount\\BankAccount\\BankAccount.Core\\BankAccount.Core.csproj",
+  "projectFilePath": "/Users/owner/BankAccount/BankAccount.Core/BankAccount.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GK TECH\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "/Users/owner/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
